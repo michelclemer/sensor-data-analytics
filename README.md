@@ -12,6 +12,6 @@ Once all libraries are installed you can run the script. To do this, simply type
 
 The script is well commented, providing details on what each section of code is doing. This will make it easier for you to understand what's going on and, if necessary, make changes.
 
-NOTE: for the code below via github it is necessary to download the file "pump_sensor_data" and name it "sensor.csv" before starting the application
+NOTE: for the code below via github it is necessary to download the file "pump_sensor_data"(https://www.kaggle.com/datasets/nphantawee/pump-sensor-data) and name it "sensor.csv" before starting the application
 
 ---
